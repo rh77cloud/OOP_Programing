@@ -1,0 +1,13 @@
+setup.py
+distributions/Gaussiandistribution.py
+distributions/Generaldistribution.py
+distributions/__init__.py
+distributions/example_code.py
+distributions.egg-info/._PKG-INFO
+distributions.egg-info/._SOURCES.txt
+distributions.egg-info/._dependency_links.txt
+distributions.egg-info/PKG-INFO
+distributions.egg-info/SOURCES.txt
+distributions.egg-info/dependency_links.txt
+distributions.egg-info/not-zip-safe
+distributions.egg-info/top_level.txt
