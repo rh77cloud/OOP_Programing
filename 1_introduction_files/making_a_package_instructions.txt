@@ -3,7 +3,8 @@ Following the instructions from the previous video, convert the modularized code
 You can put your code into the 3a_python_package folder in the workspace. Inside the 3a_python_package folder, you'll need to create a few folders and files:
 * a setup.py file, which is required in order to use pip install
 * a folder called 'distributions', which is the name of the Python package
-* inside the 'distributions' folder, you'll need the Gaussiandistribution.py file, Generaldistribution.py and an __init__.py file.
+* inside the 'distributions' folder, you'll need the Gaussiandistribution.py file, 
+Generaldistribution.py and an __init__.py file.
 
 Once everything is set up, open a new terminal window in the workspace by clicking 'NEW TERMINAL'. Then type:
 cd 3a_python_package
