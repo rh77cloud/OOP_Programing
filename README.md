@@ -1,5 +1,7 @@
 # OOP_Programing
 
+## The Folder Structure
+
 ```bash
 ├── 1_introduction_files
 │   ├── binomial_class_instructions.txt
