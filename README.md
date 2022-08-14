@@ -2,6 +2,8 @@
 
 ## The Folder Structure
 
+\*\* this is the practice code from the Udacity Data Science Nano Degree
+
 ```bash
 ├── 1_introduction_files
 │   ├── binomial_class_instructions.txt
